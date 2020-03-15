@@ -1,2 +1,2 @@
 # jackrcole.github.io
-Personal Website / Portfolio / Resumé website
+Personal Website / Portfolio / Resumé / Blog
