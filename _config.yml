@@ -63,7 +63,7 @@ instagram:          jackcole.ig
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
