@@ -4,7 +4,7 @@ title:  "Hello, World! (Or: How I Learned to Stop Worrying and Love the Virus)"
 date:   2020-03-15
 excerpt: "The first of (hopefully) many blog posts on this website."
 tag:
-- first post
+- first
 - coronavirus
 - diary
 comments: true
