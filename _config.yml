@@ -4,7 +4,7 @@ bio:                'Jack Cole is a Computer Science and Mathematics student at 
 description:        "Jack Cole is a Computer Science and Mathematics student at the University of Maryland College Park."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/jc-logo.png'
 background:         'assets/img/code-bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
