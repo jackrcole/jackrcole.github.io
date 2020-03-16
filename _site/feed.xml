@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-16T14:10:16-04:00</updated><id>http://localhost:4000/</id><title type="html">Jack Cole</title><subtitle>Jack Cole is a Computer Science and Mathematics student at the University of Maryland College Park.</subtitle><entry><title type="html">Potter Portraits: Bring Your Art to Life!</title><link href="http://localhost:4000/potter-portraits/" rel="alternate" type="text/html" title="Potter Portraits: Bring Your Art to Life!" /><published>2020-03-16T00:00:00-04:00</published><updated>2020-03-16T00:00:00-04:00</updated><id>http://localhost:4000/potter-portraits</id><content type="html" xml:base="http://localhost:4000/potter-portraits/">&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This is a fictional product created as a class project.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-16T15:20:20-04:00</updated><id>http://localhost:4000/</id><title type="html">Jack Cole</title><subtitle>Jack Cole is a Computer Science and Mathematics student at the University of Maryland College Park.</subtitle><entry><title type="html">My Workout Routine ft. COVID19 (Hey, that kind of rhymes!)</title><link href="http://localhost:4000/working-out/" rel="alternate" type="text/html" title="My Workout Routine ft. COVID19 (Hey, that kind of rhymes!)" /><published>2020-03-16T00:00:00-04:00</published><updated>2020-03-16T00:00:00-04:00</updated><id>http://localhost:4000/working-out</id><content type="html" xml:base="http://localhost:4000/working-out/">&lt;h1 id=&quot;working-out&quot;&gt;Working Out&lt;/h1&gt;
+&lt;p&gt;I just found out today that my local YMCA has closed for the foreseeable future as a result of, you guessed it, COVID19. It’s a shame because for the past few weeks, I have been doing really well with getting into a nice exercise routine. Hopefully, if I discuss my workout routine here, I will come up with a way to continue exercising without gym equipment.&lt;/p&gt;
+
+&lt;h2 id=&quot;strength&quot;&gt;Strength&lt;/h2&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;https://img1.goodfon.com/wallpaper/nbig/e/f3/weightlifting-talc-crossfit.jpg&quot;&gt;&lt;img src=&quot;https://img1.goodfon.com/wallpaper/nbig/e/f3/weightlifting-talc-crossfit.jpg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;On Mondays, Wednesdays, and Fridays I lift weights, alternating “A” and “B” days:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Every lifting day:
+    &lt;ul&gt;
+      &lt;li&gt;I squat 5x5, starting with just the bar and logarithmically increasing the weight, following the 5th set with a set of three reps doing the heaviest weight I feel comfortable doing.&lt;/li&gt;
+      &lt;li&gt;Following my workout, I do Twenty-Ones, do three sets of twenty leg raises, and occasionally I will hang from a bar for as long as I can.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;On “A” days:
+    &lt;ul&gt;
+      &lt;li&gt;I do overhead presses, of 5 reps per set, doing sets until failure&lt;/li&gt;
+      &lt;li&gt;Following that, I deadlift for 1 set of 5 reps.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;On “B” days:
+    &lt;ul&gt;
+      &lt;li&gt;I bench 5 reps per set, doing as many sets as I think I can do without failing. I typically go without a spotter (not advisable, I know) so I try to be careful.&lt;/li&gt;
+      &lt;li&gt;After that, I do rows for 5x5 or until exhaustion.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I usually stick to this routine whenever I go to the gym alone, but whenever I weight-lift with my roommate Derek, I usually do what he does (he knows a lot more about lifting than I do).&lt;/p&gt;
+
+&lt;h2 id=&quot;cardio&quot;&gt;Cardio&lt;/h2&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;https://images.pexels.com/photos/235922/pexels-photo-235922.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=1&amp;amp;w=500&quot;&gt;&lt;img src=&quot;https://images.pexels.com/photos/235922/pexels-photo-235922.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=1&amp;amp;w=500&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Tuesdays, Thursdays, and Saturdays, I do cardio:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;When I first started running, I ran for five miles at a comfortable jogging pace, but I’ve recently transitioned to doing shorter runs at a faster pace.&lt;/li&gt;
+  &lt;li&gt;Now, I typically run a 5K at a running pace. Soon, I might transition to running two miles at a time, but I like the affect that long distance running is having on my endurance, so I may just keep my distance to in between three and five miles.&lt;/li&gt;
+  &lt;li&gt;I have an end goal in mind: running two miles in fourteen minutes. This is a requirement to join UMD’s competitive boxing team, which is something I’d like to try out. So far, I’m making excellent progress.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;changes-moving-forward&quot;&gt;Changes Moving Forward&lt;/h2&gt;
+
+&lt;p&gt;Due to the coronavirus, I no longer have a gym to go to, so I will have to make do with what I have at home. This shouldn’t affect my running too much, but I have very limited (albeit some) lifting equipment at my parent’s home, so I might find a way to replicate my workout the best I can with body weight exercises. I should be seeing Derek later this week, so I’ll also ask him what he’s doing to maintain his gym body in the midst of the apocalypse.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading, and leave a comment down below if you have any suggestions as to what I should do.&lt;/p&gt;</content><category term="fitness" /><category term="coronavirus" /><summary type="html">I try to figure out how I'm going to exercise during the pandemic.</summary></entry><entry><title type="html">Potter Portraits: Bring Your Art to Life!</title><link href="http://localhost:4000/potter-portraits/" rel="alternate" type="text/html" title="Potter Portraits: Bring Your Art to Life!" /><published>2020-03-16T00:00:00-04:00</published><updated>2020-03-16T00:00:00-04:00</updated><id>http://localhost:4000/potter-portraits</id><content type="html" xml:base="http://localhost:4000/potter-portraits/">&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This is a fictional product created as a class project.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
 aliqua. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin. Non blandit massa enim nec. Ornare
