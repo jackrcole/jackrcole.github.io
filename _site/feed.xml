@@ -1,8 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-16T03:53:39-04:00</updated><id>http://localhost:4000/</id><title type="html">Jack Cole</title><subtitle>Jack Cole is a Computer Science and Mathematics student at the University of Maryland College Park.</subtitle><entry><title type="html">Potter Portraits: Bring Your Art to Life!</title><link href="http://localhost:4000/potter-portraits/" rel="alternate" type="text/html" title="Potter Portraits: Bring Your Art to Life!" /><published>2020-03-16T00:00:00-04:00</published><updated>2020-03-16T00:00:00-04:00</updated><id>http://localhost:4000/potter-portraits</id><content type="html" xml:base="http://localhost:4000/potter-portraits/">&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This is a fictional product created as a class project.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-16T04:05:38-04:00</updated><id>http://localhost:4000/</id><title type="html">Jack Cole</title><subtitle>Jack Cole is a Computer Science and Mathematics student at the University of Maryland College Park.</subtitle><entry><title type="html">Potter Portraits: Bring Your Art to Life!</title><link href="http://localhost:4000/potter-portraits/" rel="alternate" type="text/html" title="Potter Portraits: Bring Your Art to Life!" /><published>2020-03-16T00:00:00-04:00</published><updated>2020-03-16T00:00:00-04:00</updated><id>http://localhost:4000/potter-portraits</id><content type="html" xml:base="http://localhost:4000/potter-portraits/">&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This is a fictional product created as a class project.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin. Non blandit massa enim nec. Ornare
+lectus sit amet est placerat in egestas erat. In eu mi bibendum neque egestas congue quisque egestas diam. Aenean et
+tortor at risus viverra adipiscing at in tellus. Posuere lorem ipsum dolor sit amet consectetur adipiscing. Nullam non
+nisi est sit amet facilisis magna etiam tempor. Proin nibh nisl condimentum id venenatis a condimentum vitae. Nulla
+facilisi etiam dignissim diam quis.&lt;/p&gt;
+
+&lt;p&gt;Diam maecenas ultricies mi eget mauris pharetra. Proin fermentum leo vel orci. Cras semper auctor neque vitae tempus
+quam pellentesque nec nam. Non diam phasellus vestibulum lorem sed risus ultricies. Urna molestie at elementum eu
+facilisis sed odio morbi. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Volutpat consequat
+mauris nunc congue. Ipsum dolor sit amet consectetur adipiscing elit. Ipsum dolor sit amet consectetur adipiscing elit
+duis. Varius vel pharetra vel turpis nunc eget lorem dolor.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="potter portraits" /><category term="computer vision" /><category term="machine learning" /><summary type="html">Animate your artwork like never before! Our fantasy frame uses state-of-the-art computer vision and machine learning technology to give the subjects of your favorite paintings and photographs the ability to walk and talk!</summary></entry><entry><title type="html">Hello, World! (Or: How I Learned to Stop Worrying and Love the Virus)</title><link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="Hello, World! (Or: How I Learned to Stop Worrying and Love the Virus)" /><published>2020-03-15T00:00:00-04:00</published><updated>2020-03-15T00:00:00-04:00</updated><id>http://localhost:4000/first-post</id><content type="html" xml:base="http://localhost:4000/first-post/">&lt;h1 id=&quot;my-first-post&quot;&gt;My First Post&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Risus nullam eget felis eget nunc lobortis mattis aliquam. Tortor consequat id porta nibh. Egestas erat imperdiet sed
+euismod nisi porta lorem. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Egestas egestas
+fringilla phasellus faucibus scelerisque eleifend. Justo eget magna fermentum iaculis eu non. Quam lacus suspendisse
+faucibus interdum. A cras semper auctor neque vitae tempus quam pellentesque nec. Accumsan tortor posuere ac ut
+consequat. Nisl suscipit adipiscing bibendum est ultricies integer quis auctor elit. Mauris pellentesque pulvinar
+pellentesque habitant morbi. Ut morbi tincidunt augue interdum velit euismod in. Eleifend mi in nulla posuere
+sollicitudin. Sit amet porttitor eget dolor morbi non arcu risus. Fermentum dui faucibus in ornare quam viverra orci
+sagittis eu.&lt;/p&gt;
+
+&lt;p&gt;Accumsan in nisl nisi scelerisque eu ultrices. Auctor eu augue ut lectus. Sit amet aliquam id diam maecenas ultricies mi
+eget mauris. Sem fringilla ut morbi tincidunt augue interdum velit euismod in. Sem viverra aliquet eget sit. Malesuada
+fames ac turpis egestas sed tempus urna. Pellentesque habitant morbi tristique senectus et netus. Tristique senectus et
+netus et malesuada fames ac turpis. At varius vel pharetra vel turpis nunc eget lorem dolor. Quis blandit turpis cursus
+in hac. Mattis nunc sed blandit libero volutpat sed cras ornare arcu. Rhoncus urna neque viverra justo nec ultrices.
+Amet risus nullam eget felis eget nunc lobortis mattis. At tellus at urna condimentum.&lt;/p&gt;</content><category term="potter portraits" /><category term="computer vision" /><category term="machine learning" /><summary type="html">Animate your artwork like never before! Our fantasy frame uses state-of-the-art computer vision and machine learning technology to give the subjects of your favorite paintings and photographs the ability to walk and talk!</summary></entry><entry><title type="html">Hello, World! (Or: How I Learned to Stop Worrying and Love the Virus)</title><link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="Hello, World! (Or: How I Learned to Stop Worrying and Love the Virus)" /><published>2020-03-15T00:00:00-04:00</published><updated>2020-03-15T00:00:00-04:00</updated><id>http://localhost:4000/first-post</id><content type="html" xml:base="http://localhost:4000/first-post/">&lt;h1 id=&quot;my-first-post&quot;&gt;My First Post&lt;/h1&gt;
 
 &lt;p&gt;Hi! I’m Jack. I’m using this website as a creative outlet to help me with my web programming, writing, and research skills.
 I wish to regularly write articles on various topics that I find interesting, such as Data Science, Astronomy, and Music.
