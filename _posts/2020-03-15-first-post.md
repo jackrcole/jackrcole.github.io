@@ -30,7 +30,7 @@ social, academic, work, and family lives.
 Almost everyone has been affected by the virus socially, given that there is a national advisory in the United States to
 cancel any gatherings of fifty people or more (my heart goes out to those whose weddings or funerals were cancelled).
 In my case, my plans to visit my best friend were sidelined, but it turned out that he would be moving home in a few days,
-so I no longer have a motivation for visiting. Later this week, I want to go to Ocean City with some of my roomates and
+so I no longer have a motivation for visiting. Later this week, I want to go to Ocean City with some of my roommates and
 their friends, but as long as I am careful, I don't think this excursion has to be cancelled.
 
 As far as academic life is concerned, there is plenty to be skeptical of. My school, the University of Maryland, extended
