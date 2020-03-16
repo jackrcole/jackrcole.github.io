@@ -26,4 +26,8 @@
 <url>
 <loc>http://localhost:4000/about/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/about/Resum%C3%A9.pdf</loc>
+<lastmod>2020-03-16T13:24:25-04:00</lastmod>
+</url>
 </urlset>
