@@ -46,6 +46,3 @@ fames ac turpis egestas sed tempus urna. Pellentesque habitant morbi tristique s
 netus et malesuada fames ac turpis. At varius vel pharetra vel turpis nunc eget lorem dolor. Quis blandit turpis cursus
 in hac. Mattis nunc sed blandit libero volutpat sed cras ornare arcu. Rhoncus urna neque viverra justo nec ultrices.
 Amet risus nullam eget felis eget nunc lobortis mattis. At tellus at urna condimentum.
-
-Widget test:
-<iframe src="https://elc.github.io/blog/iframes/ode-python/foxes-rabbits-iframe.html"></iframe>
