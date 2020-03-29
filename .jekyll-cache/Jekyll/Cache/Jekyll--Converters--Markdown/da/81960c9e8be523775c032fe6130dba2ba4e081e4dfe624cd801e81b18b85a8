@@ -1,0 +1,56 @@
+I"�#<p>It’s been almost two weeks since my last post, and since then, my life has changed very little on the surface, but a lot more is going on, and more is soon to come.</p>
+<h2 id="work">Work</h2>
+<p><img src="https://biz.prlog.org/evanschambers/logo.jpg" alt="E&amp;C logo" />
+Yesterday, I started my Data Science / Web Development internship at <a href="http://www.evanschambers.com/">Evans &amp; Chambers</a>. By now, almost everything has been shut down due to COVID-19, so I went through a virtual orientation, followed by a virtual onboarding process for my project. My job is interesting. For now, it will consist of writing unit tests for a web application. I haven’t written any tests yet, but I’ll be getting my first scrum ticket soon (Scrum is an agile software development methodology. A ticket is a task assigned to an individual). In the meantime, I’ve been setting up my local environment on the laptop they’re lending me, and learning how to use the tools I’ll need.</p>
+
+<p>The project itself is coded in <a href="http://groovy-lang.org/index.html">Groovy</a>, a dynamic language built on top of Java. Java was the first general purpose programming language I ever learned, so Groovy shouldn’t be too difficult to get a hang of once I warm up my object-orienting chops. I’ll be writing tests using <a href="http://spockframework.org/">Spock</a>, a unit testing framework with a JUnit runner. Spock uses an intuitive given-when-then layout that resembles natural language, so I’m looking forward to using it. Because the project I’m working on uses a MySQL database, I also have the chance to brush up on my SQL. This is just as well, because I want to get more experience using databases (I’ve spent more hours wrestling with them than I care to admit).</p>
+
+<p>I’m grateful for the opportunity to be a part of this project, especially since I’d go mad with ennui given 10 extra hours a week to waste while I’m at home. That situation, however, is likely to change due to my next topic of discussion.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// An example test written in Spock
+class HelloSpock extends spock.lang.Specification {
+       def "length of Spock's and his friends' names"() {
+           expect:
+           name.size() == length
+   
+           where:
+           name     | length
+           "Spock"  | 5
+           "Kirk"   | 4
+           "Scotty" | 6
+       }
+   }
+</code></pre></div></div>
+<h2 id="school">School</h2>
+<p><img src="https://umdrightnow.umd.edu/sites/umdrightnow.umd.edu/files/image2.png" alt="Not going to be there for a while!" /></p>
+
+<p>A lot has changed on paper with regards to my studies since spring break began two weeks ago. Not only are students not returning to campus as originally planned, but move-out has also been cancelled until further notice. I knew since before I left that in-person classes wouldn’t be coming back, but I didn’t expect them to cancel move-out (I thought that staggering it enough would mitigate the risk of transmitting COVID-19). I have a lot of stuff to bring back once we are finally allowed to return, but I’m not mad about anything because I already brought home anything I might’ve wanted for the rest of the semester.</p>
+
+<p>I begin online classes this Monday. Just thinking about going back to class is raising my background stress levels to what they were before I went on break. This weekend I plan on doing a whole lot of studying just to make sure I don’t get utterly ROCKED when school starts up again. I had to write a short list down yesterday, and my hand struggled to do i, it’s gotten so weak. If I wanted to, I could take it very easy this semester. All classes, including major-required ones, have been moved to pass-fail, with the option of taking them for a grade, and the deadline to withdraw being pushed back to the last day of classes. However, I am proceeding with the assumption that I will take whatever letter grade I get from my classes, even though, at the end of the semester, I will probably just take the classes that would RAISE my GPA for a grade and the others for pass fail. I have a pretty good GPA as it stands, so I secretly expect to take at least one course as pass fail.</p>
+
+<h2 id="the-ascl">The ASCL</h2>
+<p>In addition to studying this weekend, I plan on getting back into the swing of things with my work on the Astrophysics Source Code Library. Alice, the editor of the ASCL and my supervisor, has been in Africa on vacation for the last two weeks, and will follow that trip with a self-imposed quarantine for another two weeks. I will be videoconferencing with her, and perhaps Siddha (another ASCL intern) a couple times a week along with my classes and my work. Talking about everything I have going on right now is making me realize how careful I need to be about how I spend my time for the next couple months, even if I’m at home. For sure, doing everything online is going to be a good exercise in self-control. I need to be able to focus even when YouTube is one tab away.</p>
+
+<p>Anyway, as I mentioned in a previous post, the 226th AAS meeting was cancelled, or so I said. In actuality, the meeting has been moved online, and iPosters will be viewed through a website where the authors can chat with any observers in real time. I will still be able to create my poster and present it, but it will be online rather than in-person, which I’m still a little sad about. Several weeks ago, Alice said something about another meeting in Arizona that I may be able to go to in lieu of going to Madison, so hopefully I will get to go there. That would give me a chance to see my older sister Carolyn, who is in Arizona working for American Express. There’s a small chance that I will be flying over there sometime soon to keep her company after her roommate leaves tomorrow, but we’ll see how that develops.</p>
+
+<p>Thinking about my work on the ASCL just gave me an idea that I can incorporate into my COVID-19 web application, which brings me to my next topic of discussion:</p>
+
+<h2 id="side-projects">Side Projects</h2>
+<p>Over the break I’ve been working on a couple of side projects that I’ve been wanting to do for a while, and didn’t really get an opportunity to start until the pandemic.</p>
+
+<h3 id="this-website">This Website</h3>
+<p><img src="https://www.aerobatic.com/img/quickstart-screenshots/jekyll-moon.png" alt="Hmmm, looks familiar!" /></p>
+
+<p>Before spring break started, this website was only a dream. I’m very happy with how it turned out, and I am all the better for having finally published an actual webpage, something I’ve wanted to do for a long time. This isn’t to say that I’m done by any means; in fact, I’ve only begun. As of the day this post was written, this website was made using Jekyll and the <a href="https://github.com/TaylanTatli/Moon">Moon</a> theme. I recently discovered that UMD gives me access to many Adobe Applications, so I plan on using Dreamweaver in the future to build a website from scratch. As much as I love this theme, I have my gripes about it, especially some of the unnecessary bells and whistles, like the rotating logo I suspect is slowing down the loading speed of the homepage.</p>
+
+<h3 id="covid-19-visualization">COVID-19 Visualization</h3>
+<p><img src="https://cdn.the-scientist.com/assets/articleNo/67289/aImg/36566/uploads/final%20graph%20article.png" alt="Pretty self explanatory. We're fucked." /></p>
+
+<p>This project is much more of a work-in-progress than jackcole.org, but I want to continue developing it. What I envision for this project is a web application written in Python (using Flask or Django or some other framework) that can be used to view a time series graph of confirmed coronavirus cases in different regions in the world. The point I made earlier about coming up with an idea was in reference to this project. I just realized that in order to keep the data up to date. I just need to pull the csv from the website using wget and then automatically stage and push a commit to the git repo. I was planning on hosting this web-app through Github Pages anyway, so this works out! It’s 1 AM right now, but this should literally be just three lines in a shell script, so I’ll write it tonight.</p>
+
+<h3 id="other-projects">Other Projects</h3>
+
+<p>You would think that I have enough on my plate already, but nope. I have a couple other projects that I haven’t started quite yet but will be hopefully soon. One is a cryptocurrency SmartContract verifier written in LiquidHaskell, while another is a simple stock market analyzer written in Python. These projects are unrelated, but I look forward to learning more about investing while I do them. I just opened up a TD Ameritrade account, but I haven’t actually done anything yet. I only know one thing: play the long game. I’m going to carefully pick some trades to make, and at an opportune time (likely sometime during this pandemic), strike while the iron’s hot.</p>
+
+<p>I thinks that’s enough rambling for tonight. Apologies to anyone who, for whatever reason, actually read this thing all the way through.</p>
+:ET
