@@ -1,0 +1,10 @@
+I"9<p>A paper put together by a group of University of Maryland
+Computer Science Honors students. In this paper, we explore the runtime
+of a gradually typed benchmark program. We run different versions of the benchmark
+with different levels of typed and untyped code based on class-level granularity to
+see if sound gradual typing is viable in practice, or if the performance
+overhead is intolerable.</p>
+
+<p>Click <a href="/projects/Performance_Evaluation_of_Safe_TypeScript.pdf">here</a> for a copy of the paper and let me
+know what you think in the comments below!</p>
+:ET
