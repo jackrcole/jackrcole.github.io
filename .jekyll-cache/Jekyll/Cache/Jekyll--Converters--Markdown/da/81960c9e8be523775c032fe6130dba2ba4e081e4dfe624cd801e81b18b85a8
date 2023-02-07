@@ -1,4 +1,4 @@
-I"�#<p>It’s been almost two weeks since my last post, and since then, my life has changed very little on the surface, but a lot more is going on, and more is soon to come.</p>
+I"$<p>It’s been almost two weeks since my last post, and since then, my life has changed very little on the surface, but a lot more is going on, and more is soon to come.</p>
 <h2 id="work">Work</h2>
 <p><img src="https://biz.prlog.org/evanschambers/logo.jpg" alt="E&amp;C logo" />
 Yesterday, I started my Data Science / Web Development internship at <a href="http://www.evanschambers.com/">Evans &amp; Chambers</a>. By now, almost everything has been shut down due to COVID-19, so I went through a virtual orientation, followed by a virtual onboarding process for my project. My job is interesting. For now, it will consist of writing unit tests for a web application. I haven’t written any tests yet, but I’ll be getting my first scrum ticket soon (Scrum is an agile software development methodology. A ticket is a task assigned to an individual). In the meantime, I’ve been setting up my local environment on the laptop they’re lending me, and learning how to use the tools I’ll need.</p>
@@ -7,7 +7,7 @@ Yesterday, I started my Data Science / Web Development internship at <a href="ht
 
 <p>I’m grateful for the opportunity to be a part of this project, especially since I’d go mad with ennui given 10 extra hours a week to waste while I’m at home. That situation, however, is likely to change due to my next topic of discussion.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// An example test written in Spock
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// An example test written in Spock
 class HelloSpock extends spock.lang.Specification {
        def "length of Spock's and his friends' names"() {
            expect:
