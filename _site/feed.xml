@@ -1,48 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T15:00:25-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jack Cole</title><subtitle>Jack Cole is a Computer Science and Mathematics student at the University of Maryland College Park.</subtitle><entry><title type="html">What I like to Cook</title><link href="http://localhost:4000/cooking/" rel="alternate" type="text/html" title="What I like to Cook" /><published>2020-05-26T00:00:00-04:00</published><updated>2020-05-26T00:00:00-04:00</updated><id>http://localhost:4000/cooking</id><content type="html" xml:base="http://localhost:4000/cooking/">&lt;p&gt;Spending so much time at home has really allowed me to explore
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-12T14:41:26-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jack Cole</title><subtitle>Jack Cole is a Computer Science and Mathematics student at the University of Maryland College Park.</subtitle><entry><title type="html">What I like to Cook</title><link href="http://localhost:4000/cooking/" rel="alternate" type="text/html" title="What I like to Cook" /><published>2020-05-26T00:00:00-04:00</published><updated>2020-05-26T00:00:00-04:00</updated><id>http://localhost:4000/cooking</id><content type="html" xml:base="http://localhost:4000/cooking/"><![CDATA[<p>Spending so much time at home has really allowed me to explore
 my passion for the culinary arts. I’ve been watching a lot of YouTube
 videos and reading a lot of recipe books, and as everyone knows,
-once you do those things you’re basically a MasterChef.&lt;/p&gt;
+once you do those things you’re basically a MasterChef.</p>
 
-&lt;p&gt;So today, I’d like to share some of my favorite meals to make.&lt;/p&gt;
+<p>Testing a new change here.</p>
 
-&lt;h2 id=&quot;breakfast&quot;&gt;Breakfast&lt;/h2&gt;
+<p>So today, I’d like to share some of my favorite meals to make.</p>
 
-&lt;p&gt;I use a prodigious amount of eggs for many of my breakfast meals.
+<h2 id="breakfast">Breakfast</h2>
+
+<p>I use a prodigious amount of eggs for many of my breakfast meals.
 This is evident in the act that my two favorite breakfasts to make
 are Shakshuka (eggs poached in tomato sauce), and Eggs Benedict
 (poached eggs with an english muffin, canadian bacon, and
-hollandaise sauce).&lt;/p&gt;
+hollandaise sauce).</p>
 
-&lt;figure class=&quot;half&quot;&gt;
+<figure class="half">
     
-    &lt;a href=&quot;https://static01.nyt.com/images/2020/02/10/dining/mc-shakshuka/mc-shakshuka-articleLarge.jpg&quot;&gt;&lt;img src=&quot;https://static01.nyt.com/images/2020/02/10/dining/mc-shakshuka/mc-shakshuka-articleLarge.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    <a href="https://static01.nyt.com/images/2020/02/10/dining/mc-shakshuka/mc-shakshuka-articleLarge.jpg"><img src="https://static01.nyt.com/images/2020/02/10/dining/mc-shakshuka/mc-shakshuka-articleLarge.jpg" alt="" /></a>
     
-    &lt;a href=&quot;https://static01.nyt.com/images/2018/11/21/dining/ar-eggs-benedict/ar-eggs-benedict-articleLarge.jpg&quot;&gt;&lt;img src=&quot;https://static01.nyt.com/images/2018/11/21/dining/ar-eggs-benedict/ar-eggs-benedict-articleLarge.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    <a href="https://static01.nyt.com/images/2018/11/21/dining/ar-eggs-benedict/ar-eggs-benedict-articleLarge.jpg"><img src="https://static01.nyt.com/images/2018/11/21/dining/ar-eggs-benedict/ar-eggs-benedict-articleLarge.jpg" alt="" /></a>
     
-    &lt;figcaption&gt;Shakshuka and Eggs Benedict&lt;/figcaption&gt;
-&lt;/figure&gt;
+    <figcaption>Shakshuka and Eggs Benedict</figcaption>
+</figure>
 
-&lt;p&gt;If I’m not doing anything fancy like that for breakfast, I’ll
+<p>If I’m not doing anything fancy like that for breakfast, I’ll
 usually just have some bacon, toast, and eggs. Most of my plain
 eggs have been over-easy, but I’ve recently been converted to the
 wonders of Gordon Ramsay style scrambled eggs and eggs fried in
-olive oil.&lt;/p&gt;
+olive oil.</p>
 
-&lt;h2 id=&quot;lunch&quot;&gt;Lunch&lt;/h2&gt;
+<h2 id="lunch">Lunch</h2>
 
-&lt;p&gt;I had trouble coming up with what I like to make for lunch. A lot of the
+<p>I had trouble coming up with what I like to make for lunch. A lot of the
 time, I just eat whatever’s available in the fridge.
 The occasional lunchtime meals I make include chicken fried rice and
 stir-fry (hard to mess those up if you ask me). I also sometimes
 take leftovers and try to make something new with them, like salmon
 cakes out of leftover salmon, or a toasted croissant ham sandwich with
-leftover ham.&lt;/p&gt;
+leftover ham.</p>
 
-&lt;p&gt;&lt;img src=&quot;https://assets.bonappetit.com/photos/57ae13c853e63daf11a4e1df/16:9/w_1000,c_limit/salmon-cakes-646.jpg&quot; alt=&quot;Salmon Cakes&quot; /&gt;&lt;/p&gt;
+<p><img src="https://assets.bonappetit.com/photos/57ae13c853e63daf11a4e1df/16:9/w_1000,c_limit/salmon-cakes-646.jpg" alt="Salmon Cakes" /></p>
 
-&lt;h2 id=&quot;dinner&quot;&gt;Dinner&lt;/h2&gt;
+<h2 id="dinner">Dinner</h2>
 
-&lt;p&gt;For dinner I have a preference for something more substantial. One dish
+<p>For dinner I have a preference for something more substantial. One dish
 that I sometimes make for special occasions is a simple filet mignon
 with a red wine pan sauce. I shudder to think of how much the red
 meat and butter is clogging my arteries, but whatever it is, the flavor
@@ -51,168 +53,168 @@ potatoes and some green vegetable like green beans, asparagus, or broccolini.
 Sometimes if I find myself cooking dinner for one, I like to roast a singular
 chicken breast at high heat. For that, I use a dry rub of salt, pepper,
 smoked paprika, and garlic powder. That always hits the spot, especially right
-out of the oven. Brining the chicken makes it even juicier.&lt;/p&gt;
+out of the oven. Brining the chicken makes it even juicier.</p>
 
-&lt;p&gt;&lt;img src=&quot;https://steelehousekitchen.com/wp-content/uploads/2012/02/filletMignon_main1.jpg&quot; alt=&quot;Filet Mignon&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="cooking" /><category term="recipes" /><summary type="html">Some of the foods I occasionally like to cook at home.</summary></entry><entry><title type="html">Data Science Tutorial</title><link href="http://localhost:4000/data-science-tutorial/" rel="alternate" type="text/html" title="Data Science Tutorial" /><published>2020-05-26T00:00:00-04:00</published><updated>2020-05-26T00:00:00-04:00</updated><id>http://localhost:4000/data-science-tutorial</id><content type="html" xml:base="http://localhost:4000/data-science-tutorial/">&lt;p&gt;This project is a website designed to get programmers unfamiliar with data
+<p><img src="https://steelehousekitchen.com/wp-content/uploads/2012/02/filletMignon_main1.jpg" alt="Filet Mignon" /></p>]]></content><author><name></name></author><category term="cooking" /><category term="recipes" /><summary type="html"><![CDATA[Some of the foods I occasionally like to cook at home.]]></summary></entry><entry><title type="html">Data Science Tutorial</title><link href="http://localhost:4000/data-science-tutorial/" rel="alternate" type="text/html" title="Data Science Tutorial" /><published>2020-05-26T00:00:00-04:00</published><updated>2020-05-26T00:00:00-04:00</updated><id>http://localhost:4000/data-science-tutorial</id><content type="html" xml:base="http://localhost:4000/data-science-tutorial/"><![CDATA[<p>This project is a website designed to get programmers unfamiliar with data
 science introduced to the fundamental techniques and technologies behind
-collecting data, visualizing data, and processing data.&lt;/p&gt;
+collecting data, visualizing data, and processing data.</p>
 
-&lt;p&gt;I intend to maintain, update, and refine this tutorial as I myself learn more
-about data science.&lt;/p&gt;
+<p>I intend to maintain, update, and refine this tutorial as I myself learn more
+about data science.</p>
 
-&lt;p&gt;Click &lt;a href=&quot;https://jackcole.org/CMSC-320-Final-Project/index.html&quot;&gt;here&lt;/a&gt; to visit the tutorial, and let me know your
-feedback in the comments below!&lt;/p&gt;</content><author><name></name></author><category term="data science" /><category term="tutorial" /><category term="R" /><summary type="html">Final project for CMSC320 - Introduction to Data Science</summary></entry><entry><title type="html">Sound Gradual Typing Performance: Evaluation of SafeTypeScript</title><link href="http://localhost:4000/gradual-typing/" rel="alternate" type="text/html" title="Sound Gradual Typing Performance: Evaluation of SafeTypeScript" /><published>2020-05-26T00:00:00-04:00</published><updated>2020-05-26T00:00:00-04:00</updated><id>http://localhost:4000/gradual-typing</id><content type="html" xml:base="http://localhost:4000/gradual-typing/">&lt;p&gt;A paper put together by a group of University of Maryland
+<p>Click <a href="https://jackcole.org/CMSC-320-Final-Project/index.html">here</a> to visit the tutorial, and let me know your
+feedback in the comments below!</p>]]></content><author><name></name></author><category term="data science" /><category term="tutorial" /><category term="R" /><summary type="html"><![CDATA[Final project for CMSC320 - Introduction to Data Science]]></summary></entry><entry><title type="html">Sound Gradual Typing Performance: Evaluation of SafeTypeScript</title><link href="http://localhost:4000/gradual-typing/" rel="alternate" type="text/html" title="Sound Gradual Typing Performance: Evaluation of SafeTypeScript" /><published>2020-05-26T00:00:00-04:00</published><updated>2020-05-26T00:00:00-04:00</updated><id>http://localhost:4000/gradual-typing</id><content type="html" xml:base="http://localhost:4000/gradual-typing/"><![CDATA[<p>A paper put together by a group of University of Maryland
 Computer Science Honors students. In this paper, we explore the runtime
 of a gradually typed benchmark program. We run different versions of the benchmark
 with different levels of typed and untyped code based on class-level granularity to
 see if sound gradual typing is viable in practice, or if the performance
-overhead is intolerable.&lt;/p&gt;
+overhead is intolerable.</p>
 
-&lt;p&gt;Click &lt;a href=&quot;/projects/Performance_Evaluation_of_Safe_TypeScript.pdf&quot;&gt;here&lt;/a&gt; for a copy of the paper and let me
-know what you think in the comments below!&lt;/p&gt;</content><author><name></name></author><category term="gradual typing" /><category term="performance" /><category term="typescript" /><summary type="html">Final project for CMSC396H - Computer Science Honors Seminar</summary></entry><entry><title type="html">Infodump: My Life Edition</title><link href="http://localhost:4000/update/" rel="alternate" type="text/html" title="Infodump: My Life Edition" /><published>2020-03-28T00:00:00-04:00</published><updated>2020-03-28T00:00:00-04:00</updated><id>http://localhost:4000/update</id><content type="html" xml:base="http://localhost:4000/update/">&lt;p&gt;It’s been almost two weeks since my last post, and since then, my life has changed very little on the surface, but a lot more is going on, and more is soon to come.&lt;/p&gt;
-&lt;h2 id=&quot;work&quot;&gt;Work&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://biz.prlog.org/evanschambers/logo.jpg&quot; alt=&quot;E&amp;amp;C logo&quot; /&gt;
-Yesterday, I started my Data Science / Web Development internship at &lt;a href=&quot;http://www.evanschambers.com/&quot;&gt;Evans &amp;amp; Chambers&lt;/a&gt;. By now, almost everything has been shut down due to COVID-19, so I went through a virtual orientation, followed by a virtual onboarding process for my project. My job is interesting. For now, it will consist of writing unit tests for a web application. I haven’t written any tests yet, but I’ll be getting my first scrum ticket soon (Scrum is an agile software development methodology. A ticket is a task assigned to an individual). In the meantime, I’ve been setting up my local environment on the laptop they’re lending me, and learning how to use the tools I’ll need.&lt;/p&gt;
+<p>Click <a href="/projects/Performance_Evaluation_of_Safe_TypeScript.pdf">here</a> for a copy of the paper and let me
+know what you think in the comments below!</p>]]></content><author><name></name></author><category term="gradual typing" /><category term="performance" /><category term="typescript" /><summary type="html"><![CDATA[Final project for CMSC396H - Computer Science Honors Seminar]]></summary></entry><entry><title type="html">Infodump: My Life Edition</title><link href="http://localhost:4000/update/" rel="alternate" type="text/html" title="Infodump: My Life Edition" /><published>2020-03-28T00:00:00-04:00</published><updated>2020-03-28T00:00:00-04:00</updated><id>http://localhost:4000/update</id><content type="html" xml:base="http://localhost:4000/update/"><![CDATA[<p>It’s been almost two weeks since my last post, and since then, my life has changed very little on the surface, but a lot more is going on, and more is soon to come.</p>
+<h2 id="work">Work</h2>
+<p><img src="https://biz.prlog.org/evanschambers/logo.jpg" alt="E&amp;C logo" />
+Yesterday, I started my Data Science / Web Development internship at <a href="http://www.evanschambers.com/">Evans &amp; Chambers</a>. By now, almost everything has been shut down due to COVID-19, so I went through a virtual orientation, followed by a virtual onboarding process for my project. My job is interesting. For now, it will consist of writing unit tests for a web application. I haven’t written any tests yet, but I’ll be getting my first scrum ticket soon (Scrum is an agile software development methodology. A ticket is a task assigned to an individual). In the meantime, I’ve been setting up my local environment on the laptop they’re lending me, and learning how to use the tools I’ll need.</p>
 
-&lt;p&gt;The project itself is coded in &lt;a href=&quot;http://groovy-lang.org/index.html&quot;&gt;Groovy&lt;/a&gt;, a dynamic language built on top of Java. Java was the first general purpose programming language I ever learned, so Groovy shouldn’t be too difficult to get a hang of once I warm up my object-orienting chops. I’ll be writing tests using &lt;a href=&quot;http://spockframework.org/&quot;&gt;Spock&lt;/a&gt;, a unit testing framework with a JUnit runner. Spock uses an intuitive given-when-then layout that resembles natural language, so I’m looking forward to using it. Because the project I’m working on uses a MySQL database, I also have the chance to brush up on my SQL. This is just as well, because I want to get more experience using databases (I’ve spent more hours wrestling with them than I care to admit).&lt;/p&gt;
+<p>The project itself is coded in <a href="http://groovy-lang.org/index.html">Groovy</a>, a dynamic language built on top of Java. Java was the first general purpose programming language I ever learned, so Groovy shouldn’t be too difficult to get a hang of once I warm up my object-orienting chops. I’ll be writing tests using <a href="http://spockframework.org/">Spock</a>, a unit testing framework with a JUnit runner. Spock uses an intuitive given-when-then layout that resembles natural language, so I’m looking forward to using it. Because the project I’m working on uses a MySQL database, I also have the chance to brush up on my SQL. This is just as well, because I want to get more experience using databases (I’ve spent more hours wrestling with them than I care to admit).</p>
 
-&lt;p&gt;I’m grateful for the opportunity to be a part of this project, especially since I’d go mad with ennui given 10 extra hours a week to waste while I’m at home. That situation, however, is likely to change due to my next topic of discussion.&lt;/p&gt;
+<p>I’m grateful for the opportunity to be a part of this project, especially since I’d go mad with ennui given 10 extra hours a week to waste while I’m at home. That situation, however, is likely to change due to my next topic of discussion.</p>
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// An example test written in Spock
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// An example test written in Spock
 class HelloSpock extends spock.lang.Specification {
-       def &quot;length of Spock's and his friends' names&quot;() {
+       def "length of Spock's and his friends' names"() {
            expect:
            name.size() == length
    
            where:
            name     | length
-           &quot;Spock&quot;  | 5
-           &quot;Kirk&quot;   | 4
-           &quot;Scotty&quot; | 6
+           "Spock"  | 5
+           "Kirk"   | 4
+           "Scotty" | 6
        }
    }
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;school&quot;&gt;School&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://umdrightnow.umd.edu/sites/umdrightnow.umd.edu/files/image2.png&quot; alt=&quot;Not going to be there for a while!&quot; /&gt;&lt;/p&gt;
+</code></pre></div></div>
+<h2 id="school">School</h2>
+<p><img src="https://umdrightnow.umd.edu/sites/umdrightnow.umd.edu/files/image2.png" alt="Not going to be there for a while!" /></p>
 
-&lt;p&gt;A lot has changed on paper with regards to my studies since spring break began two weeks ago. Not only are students not returning to campus as originally planned, but move-out has also been cancelled until further notice. I knew since before I left that in-person classes wouldn’t be coming back, but I didn’t expect them to cancel move-out (I thought that staggering it enough would mitigate the risk of transmitting COVID-19). I have a lot of stuff to bring back once we are finally allowed to return, but I’m not mad about anything because I already brought home anything I might’ve wanted for the rest of the semester.&lt;/p&gt;
+<p>A lot has changed on paper with regards to my studies since spring break began two weeks ago. Not only are students not returning to campus as originally planned, but move-out has also been cancelled until further notice. I knew since before I left that in-person classes wouldn’t be coming back, but I didn’t expect them to cancel move-out (I thought that staggering it enough would mitigate the risk of transmitting COVID-19). I have a lot of stuff to bring back once we are finally allowed to return, but I’m not mad about anything because I already brought home anything I might’ve wanted for the rest of the semester.</p>
 
-&lt;p&gt;I begin online classes this Monday. Just thinking about going back to class is raising my background stress levels to what they were before I went on break. This weekend I plan on doing a whole lot of studying just to make sure I don’t get utterly ROCKED when school starts up again. I had to write a short list down yesterday, and my hand struggled to do i, it’s gotten so weak. If I wanted to, I could take it very easy this semester. All classes, including major-required ones, have been moved to pass-fail, with the option of taking them for a grade, and the deadline to withdraw being pushed back to the last day of classes. However, I am proceeding with the assumption that I will take whatever letter grade I get from my classes, even though, at the end of the semester, I will probably just take the classes that would RAISE my GPA for a grade and the others for pass fail. I have a pretty good GPA as it stands, so I secretly expect to take at least one course as pass fail.&lt;/p&gt;
+<p>I begin online classes this Monday. Just thinking about going back to class is raising my background stress levels to what they were before I went on break. This weekend I plan on doing a whole lot of studying just to make sure I don’t get utterly ROCKED when school starts up again. I had to write a short list down yesterday, and my hand struggled to do i, it’s gotten so weak. If I wanted to, I could take it very easy this semester. All classes, including major-required ones, have been moved to pass-fail, with the option of taking them for a grade, and the deadline to withdraw being pushed back to the last day of classes. However, I am proceeding with the assumption that I will take whatever letter grade I get from my classes, even though, at the end of the semester, I will probably just take the classes that would RAISE my GPA for a grade and the others for pass fail. I have a pretty good GPA as it stands, so I secretly expect to take at least one course as pass fail.</p>
 
-&lt;h2 id=&quot;the-ascl&quot;&gt;The ASCL&lt;/h2&gt;
-&lt;p&gt;In addition to studying this weekend, I plan on getting back into the swing of things with my work on the Astrophysics Source Code Library. Alice, the editor of the ASCL and my supervisor, has been in Africa on vacation for the last two weeks, and will follow that trip with a self-imposed quarantine for another two weeks. I will be videoconferencing with her, and perhaps Siddha (another ASCL intern) a couple times a week along with my classes and my work. Talking about everything I have going on right now is making me realize how careful I need to be about how I spend my time for the next couple months, even if I’m at home. For sure, doing everything online is going to be a good exercise in self-control. I need to be able to focus even when YouTube is one tab away.&lt;/p&gt;
+<h2 id="the-ascl">The ASCL</h2>
+<p>In addition to studying this weekend, I plan on getting back into the swing of things with my work on the Astrophysics Source Code Library. Alice, the editor of the ASCL and my supervisor, has been in Africa on vacation for the last two weeks, and will follow that trip with a self-imposed quarantine for another two weeks. I will be videoconferencing with her, and perhaps Siddha (another ASCL intern) a couple times a week along with my classes and my work. Talking about everything I have going on right now is making me realize how careful I need to be about how I spend my time for the next couple months, even if I’m at home. For sure, doing everything online is going to be a good exercise in self-control. I need to be able to focus even when YouTube is one tab away.</p>
 
-&lt;p&gt;Anyway, as I mentioned in a previous post, the 226th AAS meeting was cancelled, or so I said. In actuality, the meeting has been moved online, and iPosters will be viewed through a website where the authors can chat with any observers in real time. I will still be able to create my poster and present it, but it will be online rather than in-person, which I’m still a little sad about. Several weeks ago, Alice said something about another meeting in Arizona that I may be able to go to in lieu of going to Madison, so hopefully I will get to go there. That would give me a chance to see my older sister Carolyn, who is in Arizona working for American Express. There’s a small chance that I will be flying over there sometime soon to keep her company after her roommate leaves tomorrow, but we’ll see how that develops.&lt;/p&gt;
+<p>Anyway, as I mentioned in a previous post, the 226th AAS meeting was cancelled, or so I said. In actuality, the meeting has been moved online, and iPosters will be viewed through a website where the authors can chat with any observers in real time. I will still be able to create my poster and present it, but it will be online rather than in-person, which I’m still a little sad about. Several weeks ago, Alice said something about another meeting in Arizona that I may be able to go to in lieu of going to Madison, so hopefully I will get to go there. That would give me a chance to see my older sister Carolyn, who is in Arizona working for American Express. There’s a small chance that I will be flying over there sometime soon to keep her company after her roommate leaves tomorrow, but we’ll see how that develops.</p>
 
-&lt;p&gt;Thinking about my work on the ASCL just gave me an idea that I can incorporate into my COVID-19 web application, which brings me to my next topic of discussion:&lt;/p&gt;
+<p>Thinking about my work on the ASCL just gave me an idea that I can incorporate into my COVID-19 web application, which brings me to my next topic of discussion:</p>
 
-&lt;h2 id=&quot;side-projects&quot;&gt;Side Projects&lt;/h2&gt;
-&lt;p&gt;Over the break I’ve been working on a couple of side projects that I’ve been wanting to do for a while, and didn’t really get an opportunity to start until the pandemic.&lt;/p&gt;
+<h2 id="side-projects">Side Projects</h2>
+<p>Over the break I’ve been working on a couple of side projects that I’ve been wanting to do for a while, and didn’t really get an opportunity to start until the pandemic.</p>
 
-&lt;h3 id=&quot;this-website&quot;&gt;This Website&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.aerobatic.com/img/quickstart-screenshots/jekyll-moon.png&quot; alt=&quot;Hmmm, looks familiar!&quot; /&gt;&lt;/p&gt;
+<h3 id="this-website">This Website</h3>
+<p><img src="https://www.aerobatic.com/img/quickstart-screenshots/jekyll-moon.png" alt="Hmmm, looks familiar!" /></p>
 
-&lt;p&gt;Before spring break started, this website was only a dream. I’m very happy with how it turned out, and I am all the better for having finally published an actual webpage, something I’ve wanted to do for a long time. This isn’t to say that I’m done by any means; in fact, I’ve only begun. As of the day this post was written, this website was made using Jekyll and the &lt;a href=&quot;https://github.com/TaylanTatli/Moon&quot;&gt;Moon&lt;/a&gt; theme. I recently discovered that UMD gives me access to many Adobe Applications, so I plan on using Dreamweaver in the future to build a website from scratch. As much as I love this theme, I have my gripes about it, especially some of the unnecessary bells and whistles, like the rotating logo I suspect is slowing down the loading speed of the homepage.&lt;/p&gt;
+<p>Before spring break started, this website was only a dream. I’m very happy with how it turned out, and I am all the better for having finally published an actual webpage, something I’ve wanted to do for a long time. This isn’t to say that I’m done by any means; in fact, I’ve only begun. As of the day this post was written, this website was made using Jekyll and the <a href="https://github.com/TaylanTatli/Moon">Moon</a> theme. I recently discovered that UMD gives me access to many Adobe Applications, so I plan on using Dreamweaver in the future to build a website from scratch. As much as I love this theme, I have my gripes about it, especially some of the unnecessary bells and whistles, like the rotating logo I suspect is slowing down the loading speed of the homepage.</p>
 
-&lt;h3 id=&quot;covid-19-visualization&quot;&gt;COVID-19 Visualization&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.the-scientist.com/assets/articleNo/67289/aImg/36566/uploads/final%20graph%20article.png&quot; alt=&quot;Pretty self explanatory. We're fucked.&quot; /&gt;&lt;/p&gt;
+<h3 id="covid-19-visualization">COVID-19 Visualization</h3>
+<p><img src="https://cdn.the-scientist.com/assets/articleNo/67289/aImg/36566/uploads/final%20graph%20article.png" alt="Pretty self explanatory. We're fucked." /></p>
 
-&lt;p&gt;This project is much more of a work-in-progress than jackcole.org, but I want to continue developing it. What I envision for this project is a web application written in Python (using Flask or Django or some other framework) that can be used to view a time series graph of confirmed coronavirus cases in different regions in the world. The point I made earlier about coming up with an idea was in reference to this project. I just realized that in order to keep the data up to date. I just need to pull the csv from the website using wget and then automatically stage and push a commit to the git repo. I was planning on hosting this web-app through Github Pages anyway, so this works out! It’s 1 AM right now, but this should literally be just three lines in a shell script, so I’ll write it tonight.&lt;/p&gt;
+<p>This project is much more of a work-in-progress than jackcole.org, but I want to continue developing it. What I envision for this project is a web application written in Python (using Flask or Django or some other framework) that can be used to view a time series graph of confirmed coronavirus cases in different regions in the world. The point I made earlier about coming up with an idea was in reference to this project. I just realized that in order to keep the data up to date. I just need to pull the csv from the website using wget and then automatically stage and push a commit to the git repo. I was planning on hosting this web-app through Github Pages anyway, so this works out! It’s 1 AM right now, but this should literally be just three lines in a shell script, so I’ll write it tonight.</p>
 
-&lt;h3 id=&quot;other-projects&quot;&gt;Other Projects&lt;/h3&gt;
+<h3 id="other-projects">Other Projects</h3>
 
-&lt;p&gt;You would think that I have enough on my plate already, but nope. I have a couple other projects that I haven’t started quite yet but will be hopefully soon. One is a cryptocurrency SmartContract verifier written in LiquidHaskell, while another is a simple stock market analyzer written in Python. These projects are unrelated, but I look forward to learning more about investing while I do them. I just opened up a TD Ameritrade account, but I haven’t actually done anything yet. I only know one thing: play the long game. I’m going to carefully pick some trades to make, and at an opportune time (likely sometime during this pandemic), strike while the iron’s hot.&lt;/p&gt;
+<p>You would think that I have enough on my plate already, but nope. I have a couple other projects that I haven’t started quite yet but will be hopefully soon. One is a cryptocurrency SmartContract verifier written in LiquidHaskell, while another is a simple stock market analyzer written in Python. These projects are unrelated, but I look forward to learning more about investing while I do them. I just opened up a TD Ameritrade account, but I haven’t actually done anything yet. I only know one thing: play the long game. I’m going to carefully pick some trades to make, and at an opportune time (likely sometime during this pandemic), strike while the iron’s hot.</p>
 
-&lt;p&gt;I thinks that’s enough rambling for tonight. Apologies to anyone who, for whatever reason, actually read this thing all the way through.&lt;/p&gt;</content><author><name></name></author><category term="work" /><category term="school" /><category term="ascl" /><category term="diary" /><summary type="html">I ramble on for a while about nearly every facet of my life.</summary></entry><entry><title type="html">My Workout Routine ft. COVID19 (Hey, that kind of rhymes!)</title><link href="http://localhost:4000/working-out/" rel="alternate" type="text/html" title="My Workout Routine ft. COVID19 (Hey, that kind of rhymes!)" /><published>2020-03-16T00:00:00-04:00</published><updated>2020-03-16T00:00:00-04:00</updated><id>http://localhost:4000/working-out</id><content type="html" xml:base="http://localhost:4000/working-out/">&lt;h1 id=&quot;working-out&quot;&gt;Working Out&lt;/h1&gt;
-&lt;p&gt;I just found out today that my local YMCA has closed for the foreseeable future as a result of, you guessed it, COVID19. It’s a shame because for the past few weeks, I have been doing really well with getting into a nice exercise routine. Hopefully, if I discuss my workout routine here, I will come up with a way to continue exercising without gym equipment.&lt;/p&gt;
+<p>I thinks that’s enough rambling for tonight. Apologies to anyone who, for whatever reason, actually read this thing all the way through.</p>]]></content><author><name></name></author><category term="work" /><category term="school" /><category term="ascl" /><category term="diary" /><summary type="html"><![CDATA[I ramble on for a while about nearly every facet of my life.]]></summary></entry><entry><title type="html">My Workout Routine ft. COVID19 (Hey, that kind of rhymes!)</title><link href="http://localhost:4000/working-out/" rel="alternate" type="text/html" title="My Workout Routine ft. COVID19 (Hey, that kind of rhymes!)" /><published>2020-03-16T00:00:00-04:00</published><updated>2020-03-16T00:00:00-04:00</updated><id>http://localhost:4000/working-out</id><content type="html" xml:base="http://localhost:4000/working-out/"><![CDATA[<h1 id="working-out">Working Out</h1>
+<p>I just found out today that my local YMCA has closed for the foreseeable future as a result of, you guessed it, COVID19. It’s a shame because for the past few weeks, I have been doing really well with getting into a nice exercise routine. Hopefully, if I discuss my workout routine here, I will come up with a way to continue exercising without gym equipment.</p>
 
-&lt;h2 id=&quot;strength&quot;&gt;Strength&lt;/h2&gt;
+<h2 id="strength">Strength</h2>
 
-&lt;figure&gt;
-	&lt;a href=&quot;https://img1.goodfon.com/wallpaper/nbig/e/f3/weightlifting-talc-crossfit.jpg&quot;&gt;&lt;img src=&quot;https://img1.goodfon.com/wallpaper/nbig/e/f3/weightlifting-talc-crossfit.jpg&quot; /&gt;&lt;/a&gt;
-&lt;/figure&gt;
+<figure>
+	<a href="https://img1.goodfon.com/wallpaper/nbig/e/f3/weightlifting-talc-crossfit.jpg"><img src="https://img1.goodfon.com/wallpaper/nbig/e/f3/weightlifting-talc-crossfit.jpg" /></a>
+</figure>
 
-&lt;p&gt;On Mondays, Wednesdays, and Fridays I lift weights, alternating “A” and “B” days:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Every lifting day:
-    &lt;ul&gt;
-      &lt;li&gt;I squat 5x5, starting with just the bar and logarithmically increasing the weight, following the 5th set with a set of three reps doing the heaviest weight I feel comfortable doing.&lt;/li&gt;
-      &lt;li&gt;Following my workout, I do Twenty-Ones, do three sets of twenty leg raises, and occasionally I will hang from a bar for as long as I can.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;On “A” days:
-    &lt;ul&gt;
-      &lt;li&gt;I do overhead presses, of 5 reps per set, doing sets until failure&lt;/li&gt;
-      &lt;li&gt;Following that, I deadlift for 1 set of 5 reps.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;On “B” days:
-    &lt;ul&gt;
-      &lt;li&gt;I bench 5 reps per set, doing as many sets as I think I can do without failing. I typically go without a spotter (not advisable, I know) so I try to be careful.&lt;/li&gt;
-      &lt;li&gt;After that, I do rows for 5x5 or until exhaustion.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<p>On Mondays, Wednesdays, and Fridays I lift weights, alternating “A” and “B” days:</p>
+<ul>
+  <li>Every lifting day:
+    <ul>
+      <li>I squat 5x5, starting with just the bar and logarithmically increasing the weight, following the 5th set with a set of three reps doing the heaviest weight I feel comfortable doing.</li>
+      <li>Following my workout, I do Twenty-Ones, do three sets of twenty leg raises, and occasionally I will hang from a bar for as long as I can.</li>
+    </ul>
+  </li>
+  <li>On “A” days:
+    <ul>
+      <li>I do overhead presses, of 5 reps per set, doing sets until failure</li>
+      <li>Following that, I deadlift for 1 set of 5 reps.</li>
+    </ul>
+  </li>
+  <li>On “B” days:
+    <ul>
+      <li>I bench 5 reps per set, doing as many sets as I think I can do without failing. I typically go without a spotter (not advisable, I know) so I try to be careful.</li>
+      <li>After that, I do rows for 5x5 or until exhaustion.</li>
+    </ul>
+  </li>
+</ul>
 
-&lt;p&gt;I usually stick to this routine whenever I go to the gym alone, but whenever I weight-lift with my roommate Derek, I usually do what he does (he knows a lot more about lifting than I do).&lt;/p&gt;
+<p>I usually stick to this routine whenever I go to the gym alone, but whenever I weight-lift with my roommate Derek, I usually do what he does (he knows a lot more about lifting than I do).</p>
 
-&lt;h2 id=&quot;cardio&quot;&gt;Cardio&lt;/h2&gt;
+<h2 id="cardio">Cardio</h2>
 
-&lt;figure&gt;
-	&lt;a href=&quot;https://images.pexels.com/photos/235922/pexels-photo-235922.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=1&amp;amp;w=500&quot;&gt;&lt;img src=&quot;https://images.pexels.com/photos/235922/pexels-photo-235922.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=1&amp;amp;w=500&quot; /&gt;&lt;/a&gt;
-&lt;/figure&gt;
+<figure>
+	<a href="https://images.pexels.com/photos/235922/pexels-photo-235922.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500"><img src="https://images.pexels.com/photos/235922/pexels-photo-235922.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" /></a>
+</figure>
 
-&lt;p&gt;Tuesdays, Thursdays, and Saturdays, I do cardio:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;When I first started running, I ran for five miles at a comfortable jogging pace, but I’ve recently transitioned to doing shorter runs at a faster pace.&lt;/li&gt;
-  &lt;li&gt;Now, I typically run a 5K at a running pace. Soon, I might transition to running two miles at a time, but I like the affect that long distance running is having on my endurance, so I may just keep my distance to in between three and five miles.&lt;/li&gt;
-  &lt;li&gt;I have an end goal in mind: running two miles in fourteen minutes. This is a requirement to join UMD’s competitive boxing team, which is something I’d like to try out. So far, I’m making excellent progress.&lt;/li&gt;
-&lt;/ul&gt;
+<p>Tuesdays, Thursdays, and Saturdays, I do cardio:</p>
+<ul>
+  <li>When I first started running, I ran for five miles at a comfortable jogging pace, but I’ve recently transitioned to doing shorter runs at a faster pace.</li>
+  <li>Now, I typically run a 5K at a running pace. Soon, I might transition to running two miles at a time, but I like the affect that long distance running is having on my endurance, so I may just keep my distance to in between three and five miles.</li>
+  <li>I have an end goal in mind: running two miles in fourteen minutes. This is a requirement to join UMD’s competitive boxing team, which is something I’d like to try out. So far, I’m making excellent progress.</li>
+</ul>
 
-&lt;h2 id=&quot;changes-moving-forward&quot;&gt;Changes Moving Forward&lt;/h2&gt;
+<h2 id="changes-moving-forward">Changes Moving Forward</h2>
 
-&lt;p&gt;Due to the coronavirus, I no longer have a gym to go to, so I will have to make do with what I have at home. This shouldn’t affect my running too much, but I have very limited (albeit some) lifting equipment at my parent’s home, so I might find a way to replicate my workout the best I can with body weight exercises. I should be seeing Derek later this week, so I’ll also ask him what he’s doing to maintain his gym body in the midst of the apocalypse.&lt;/p&gt;
+<p>Due to the coronavirus, I no longer have a gym to go to, so I will have to make do with what I have at home. This shouldn’t affect my running too much, but I have very limited (albeit some) lifting equipment at my parent’s home, so I might find a way to replicate my workout the best I can with body weight exercises. I should be seeing Derek later this week, so I’ll also ask him what he’s doing to maintain his gym body in the midst of the apocalypse.</p>
 
-&lt;p&gt;Thanks for reading, and leave a comment down below if you have any suggestions as to what I should do.&lt;/p&gt;</content><author><name></name></author><category term="fitness" /><category term="coronavirus" /><summary type="html">I try to figure out how I'm going to exercise during the pandemic.</summary></entry><entry><title type="html">Hello, World! (Or: How I Learned to Stop Worrying and Love the Virus)</title><link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="Hello, World! (Or: How I Learned to Stop Worrying and Love the Virus)" /><published>2020-03-15T00:00:00-04:00</published><updated>2020-03-15T00:00:00-04:00</updated><id>http://localhost:4000/first-post</id><content type="html" xml:base="http://localhost:4000/first-post/">&lt;h1 id=&quot;my-first-post&quot;&gt;My First Post&lt;/h1&gt;
+<p>Thanks for reading, and leave a comment down below if you have any suggestions as to what I should do.</p>]]></content><author><name></name></author><category term="fitness" /><category term="coronavirus" /><summary type="html"><![CDATA[I try to figure out how I'm going to exercise during the pandemic.]]></summary></entry><entry><title type="html">Hello, World! (Or: How I Learned to Stop Worrying and Love the Virus)</title><link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="Hello, World! (Or: How I Learned to Stop Worrying and Love the Virus)" /><published>2020-03-15T00:00:00-04:00</published><updated>2020-03-15T00:00:00-04:00</updated><id>http://localhost:4000/first-post</id><content type="html" xml:base="http://localhost:4000/first-post/"><![CDATA[<h1 id="my-first-post">My First Post</h1>
 
-&lt;p&gt;Hi! I’m Jack. I’m using this website as a creative outlet to help me with my web programming, writing, and research skills.
+<p>Hi! I’m Jack. I’m using this website as a creative outlet to help me with my web programming, writing, and research skills.
 I wish to regularly write articles on various topics that I find interesting, such as Data Science, Astronomy, and Music.
 I may also write posts describing my day, as well as what I think of my life as it is. With that said, I will now describe
-my day today.&lt;/p&gt;
+my day today.</p>
 
-&lt;h2 id=&quot;coronavirus&quot;&gt;Coronavirus&lt;/h2&gt;
+<h2 id="coronavirus">Coronavirus</h2>
 
-&lt;figure&gt;
-	&lt;a href=&quot;https://cdn.mos.cms.futurecdn.net/JtVH5Khvihib7dBDFY9ZDR.jpg&quot;&gt;&lt;img src=&quot;https://cdn.mos.cms.futurecdn.net/JtVH5Khvihib7dBDFY9ZDR.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;https://www.livescience.com/topics/live/coronavirus-live-updates&quot; title=&quot;Artistic Render of COVID-19&quot;&gt;Artistic Render of COVID-19&lt;/a&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;
+<figure>
+	<a href="https://cdn.mos.cms.futurecdn.net/JtVH5Khvihib7dBDFY9ZDR.jpg"><img src="https://cdn.mos.cms.futurecdn.net/JtVH5Khvihib7dBDFY9ZDR.jpg" /></a>
+	<figcaption><a href="https://www.livescience.com/topics/live/coronavirus-live-updates" title="Artistic Render of COVID-19">Artistic Render of COVID-19</a>.</figcaption>
+</figure>
 
-&lt;p&gt;For the past several days, the novel coronavirus known as COVID-19 has dominated many aspects of my life, including my
-social, academic, work, and family lives.&lt;/p&gt;
+<p>For the past several days, the novel coronavirus known as COVID-19 has dominated many aspects of my life, including my
+social, academic, work, and family lives.</p>
 
-&lt;p&gt;Almost everyone has been affected by the virus socially, given that there is a national advisory in the United States to
+<p>Almost everyone has been affected by the virus socially, given that there is a national advisory in the United States to
 cancel any gatherings of fifty people or more (my heart goes out to those whose weddings or funerals were cancelled).
 In my case, my plans to visit my best friend were sidelined, but it turned out that he would be moving home in a few days,
 so I no longer have a motivation for visiting. Later this week, I want to go to Ocean City with some of my roommates and
-their friends, but as long as I am careful, I don’t think this excursion has to be cancelled.&lt;/p&gt;
+their friends, but as long as I am careful, I don’t think this excursion has to be cancelled.</p>
 
-&lt;p&gt;As far as academic life is concerned, there is plenty to be skeptical of. My school, the University of Maryland, extended
+<p>As far as academic life is concerned, there is plenty to be skeptical of. My school, the University of Maryland, extended
 our spring break another week, and will transition to online classes until April 10. Personally, I don’t think that we
 will be returning to campus this semester. Using Zoom for lectures will be ineffectual for most of my courses, since they
 are computer science and math, but it will be interesting to see how my theater class will be taught. I don’t mind online
-classes, but what really peeves me is online conferences. This summer, I was supposed to go to the &lt;a href=&quot;https://aas.org/meetings/aas236&quot; title=&quot;236th AAS Meeting&quot;&gt;236th AAS Meeting&lt;/a&gt;,
+classes, but what really peeves me is online conferences. This summer, I was supposed to go to the <a href="https://aas.org/meetings/aas236" title="236th AAS Meeting">236th AAS Meeting</a>,
 but that has been moved online. I was really looking forward to travelling to Madison and meeting some astronomers, but I
-understand why they took these precautions.&lt;/p&gt;
+understand why they took these precautions.</p>
 
-&lt;p&gt;COVID19 came in at an awkward time in terms of my work life. I have just accepted an offer from &lt;a href=&quot;http://www.evanschambers.com/index.php&quot; title=&quot;Evans &amp;amp; Chambers&quot;&gt;Evans &amp;amp; Chambers Technology&lt;/a&gt;
+<p>COVID19 came in at an awkward time in terms of my work life. I have just accepted an offer from <a href="http://www.evanschambers.com/index.php" title="Evans &amp; Chambers">Evans &amp; Chambers Technology</a>
 as a Data Science / Web Developer intern, but because of the virus, their DC Headquarters is closed and I will be going
 through the onboarding process via video conference. I was looking forward to working with everyone in person, but
 it can’t be helped. Thankfully, their tech employees are used to video conferencing, so they should be able to give me
-advice on how to work productively over the net, a skill that many will need in the coming months.&lt;/p&gt;
+advice on how to work productively over the net, a skill that many will need in the coming months.</p>
 
-&lt;p&gt;With regards to my family life, everyone is healthy, and hopefully it will stay that way. I’m not concerned for most of
+<p>With regards to my family life, everyone is healthy, and hopefully it will stay that way. I’m not concerned for most of
 my family, but because Dad and his Mother have Diabetes, they have a higher risk of dying than most should they contract
 the virus. It’s kind of scary to think about anything like that happening, but as long as we take the proper precautions,
-I’m sure everything will turn out alright.&lt;/p&gt;
+I’m sure everything will turn out alright.</p>
 
-&lt;p&gt;That concludes today’s diary entry. Thank you for reading.&lt;/p&gt;</content><author><name></name></author><category term="first" /><category term="coronavirus" /><category term="diary" /><summary type="html">The first of (hopefully) many blog posts on this website.</summary></entry></feed>
+<p>That concludes today’s diary entry. Thank you for reading.</p>]]></content><author><name></name></author><category term="first" /><category term="coronavirus" /><category term="diary" /><summary type="html"><![CDATA[The first of (hopefully) many blog posts on this website.]]></summary></entry></feed>
