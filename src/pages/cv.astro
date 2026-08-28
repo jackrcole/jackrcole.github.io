@@ -9,10 +9,7 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
   </div>
 
   <div class="mb-10 text-justify">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-    aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-    cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Software Engineer with a strong foundation in applied AI/ML research and production systems development. Experienced building embedded AI engines, ML pipelines, and multi-agent reinforcement learning systems. Currently completing an M.S. in Computer Science at the University of Maryland, with published research at AAMAS 2025 and ongoing thesis work on autonomous vehicle VLA models.
   </div>
 
   <div class="mb-5">
@@ -21,12 +18,18 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
 
   <div class="time-line-container grid gap-4 mb-10">
     <TimeLineElement
-      title="Title Name"
-      subtitle="[start year] to [end year] at [Study Center Name], [City], [Country]"
+      title="M.S. in Computer Science"
+      subtitle="Expected May 2026 at University of Maryland at College Park, College Park, MD (GPA: 3.96/4.00)"
+    >
+      Thesis Advisor: Tom Goldstein.
+    </TimeLineElement>
+    <TimeLineElement
+      title="B.S. in Computer Science, Mathematics"
+      subtitle="Graduated May 2022 at University of Maryland at College Park, College Park, MD"
     />
     <TimeLineElement
-      title="Title Name"
-      subtitle="[start year] to [end year] at [Study Center Name], [City], [Country]"
+      title="Program on AI and Fundamental Physics"
+      subtitle="August 2026 at NSF IAIFI (MIT), Cambridge, MA"
     />
   </div>
 
@@ -36,57 +39,69 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
 
   <div class="time-line-container mb-10">
     <TimeLineElement
-      title="Job Title at Project or Company Name"
-      subtitle="From [Start Date] to [End Date] at [Company], [City], [Country]"
+      title="Software Engineer"
+      subtitle="From December 2022 to January 2025 at Origin AI, Rockville, MD"
     >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+      <ul class="list-disc mx-4 grid gap-1">
+        <li>Led embedded engineering for a partnership with Deutsche Telekom serving approximately 14,000,000 customers.</li>
+        <li>Reduced Wireless AI engine startup latency by 75% (from 20s to 5s) by refactoring core modules in C++.</li>
+        <li>Architected an offline queuing mechanism for an on-edge AI intrusion detection system deployed across the full 14,000,000-customer base, enabling anomaly detection in home security routers without an active internet connection.</li>
+      </ul>
     </TimeLineElement>
+    
     <TimeLineElement
-      title="Job Title at Project or Company Name"
-      subtitle="From [Start Date] to [End Date] at [Company], [City], [Country]"
+      title="Full Stack Developer Intern"
+      subtitle="From March 2020 to October 2022 at Evans and Chambers Technology, Remote"
     >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+      <ul class="list-disc mx-4 grid gap-1">
+        <li>Built a rule-based threat detection module in Groovy/Grails with SQL querying to flag anomalies in security clearance applications, increasing identification of suspicious applications by 30% across approximately 500 applications per month.</li>
+        <li>Applied Scrum Agile methodology to organize developer assignments and production schedules.</li>
+      </ul>
     </TimeLineElement>
+
     <TimeLineElement
-      title="Job Title at Project or Company Name"
-      subtitle="From [Start Date] to [End Date] at [Company], [City], [Country]"
+      title="Software Developer Intern"
+      subtitle="From September 2017 to May 2018 at Johns Hopkins University Applied Physics Laboratory, Laurel, MD"
     >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+      <ul class="list-disc mx-4 grid gap-1">
+        <li>Engineered a maritime navigation tool in Java and Python projecting a 15% fuel reduction via optimal oceanic routing.</li>
+        <li>Processed NOAA data and implemented pathfinding algorithms using Java, Python, ArcGIS, and QGIS.</li>
+      </ul>
     </TimeLineElement>
   </div>
 
   <div class="mb-5">
-    <div class="text-3xl w-full font-bold">Certifications</div>
+    <div class="text-3xl w-full font-bold">Research & Publications</div>
   </div>
 
-  <ul class="list-disc mx-6 mb-10 grid gap-2">
-    <li>
-      <a href="#" target="_blank"> Certification Name (with link)</a>
-    </li>
-    <li>
-      <a href="#" target="_blank"> Certification Name (with link)</a>
-    </li>
-  </ul>
+  <div class="time-line-container mb-10">
+    <TimeLineElement
+      title="Multimodal Agentic Model Predictive Control"
+      subtitle="Published at 24th ACM Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2025"
+    >
+      Co-authored with Saptarashmi Bandyopadhyay, John Cole, Thomas Goldstein, and David Jacobs.
+    </TimeLineElement>
+  </div>
 
   <div class="mb-5">
     <div class="text-3xl w-full font-bold">Skills</div>
   </div>
 
   <ul class="list-disc md:columns-5 columns-2 mx-6">
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
-    <li>Skill Name</li>
+    <li>Python</li>
+    <li>C++</li>
+    <li>C</li>
+    <li>Rust</li>
+    <li>TypeScript</li>
+    <li>SQL</li>
+    <li>PyTorch</li>
+    <li>TensorFlow</li>
+    <li>JAX</li>
+    <li>Hugging Face</li>
+    <li>OpenCV</li>
+    <li>Git</li>
+    <li>Docker</li>
+    <li>Linux</li>
+    <li>MongoDB</li>
   </ul>
 </BaseLayout>
