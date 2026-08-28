@@ -1,12 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import HorizontalCard from "../components/HorizontalCard.astro";
-import { getCollection } from "astro:content";
-import createSlug from "../lib/createSlug"
-
-const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-
-const last_posts = posts.slice(0, 3);
 ---
 
 <BaseLayout sideBarActiveItemID="home">
@@ -20,7 +14,7 @@ const last_posts = posts.slice(0, 3);
       </text>
     </div>
     <div class="mt-8">
-      <a class="btn" href="https://linkedin.com/in/john-c-a90583100" target="_blank">Let's connect!</a>
+      <a class="btn" href="https://linkedin.com/in/jack-c-a90583100" target="_blank">Let's connect!</a>
       <a href="https://github.com/jackrcole" target="_blank" class="btn btn-outline ml-5">
         View GitHub
       </a>
@@ -32,7 +26,7 @@ const last_posts = posts.slice(0, 3);
   </div>
 
   <HorizontalCard
-    title="Language-Guided Differentiable Predicted Control"
+    title="Language-Guided Differentiable Predictive Control"
     img="/projects/lg-dpc.png"
     desc="A specialized framework integrating natural language guidance with differentiable model predictive control for autonomous systems."
     url="#"
@@ -40,37 +34,29 @@ const last_posts = posts.slice(0, 3);
   />
   <div class="divider my-0"></div>
   <HorizontalCard
-    title="JAX Computational Physics Modeling"
-    img="/post_img.webp"
-    desc="High-performance simulation pipelines leveraging JAX for hardware-accelerated differentiable physics stacks and multi-agent systems."
+    title="Social Dilemmas in JAX-based Multi-Agent Reinforcement Learning"
+    img="/projects/social-jax.png"
+    desc="High-throughput simulation and analysis of cooperative and competitive dynamics in social dilemma environments (Coin Game) using JAX and JaxMARL with MAPPO and IPPO."
     url="#"
-    badge="JAX"
+    badge="JAX / MARL"
   />
   <div class="divider my-0"></div>
   <HorizontalCard
     title="Embedded Systems & Threat Detection"
-    img="/post_img.webp"
+    img="/projects/origin.png"
     desc="Optimized software engines and threat detection modules focusing on low-latency execution and hardware integration."
     url="#"
   />
 
   <div>
-    <div class="text-3xl w-full font-bold mb-5 mt-10">Latest publications & write-ups</div>
+    <div class="text-3xl w-full font-bold mb-5 mt-10">Latest publications</div>
   </div>
 
-  {
-    last_posts.map((post) => (
-      <>
-        <HorizontalCard
-          title={post.data.title}
-          img={post.data.heroImage}
-          desc={post.data.description}
-          url={"/blog/" + createSlug(post.data.title, post.slug)}
-          target="_self"
-          badge={post.data.badge}
-        />
-        <div class="divider my-0" />
-      </>
-    ))
-  }
+  <HorizontalCard
+    title="Multimodal Agentic Model Predictive Control"
+    img="/projects/agent-mpc.png"
+    desc="Integrating Model Predictive Control (MPC) with Multimodal Vision-Language Models (VLMs) to enable context-aware, safety-centric scene understanding and planning for autonomous vehicles. Published at AAMAS 2025."
+    url="#"
+    badge="AAMAS 2025"
+  />
 </BaseLayout>
