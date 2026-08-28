@@ -18,6 +18,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Install, build, and upload your site output
         uses: withastro/action@v3
+        with:
+          package-manager: pnpm@8.15.8
 
   deploy:
     needs: build
