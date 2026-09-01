@@ -4,6 +4,20 @@ import TimeLineElement from "../components/cv/TimeLine.astro";
 ---
 
 <BaseLayout title="Resume" sideBarActiveItemID="cv">
+    <div class="mb-5 flex justify-between items-center flex-wrap gap-4">
+    <div class="text-3xl w-full sm:w-auto font-bold">Curriculum Vitae</div>
+    <a 
+      href="/public/cv.pdf" 
+      download="John_Cole_Resume.pdf"
+      target="_blank" 
+      class="btn btn-outline btn-sm gap-2"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current" viewBox="0 0 24 24">
+        <path d="M12 16l4-5h-3V4h-2v7H8l4 5zm9 2H3v2h18v-2z"/>
+      </svg>
+      Download PDF
+    </a>
+  </div>
   <div class="mb-5">
     <div class="text-3xl w-full font-bold">Profile</div>
   </div>
